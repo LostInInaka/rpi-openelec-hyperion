@@ -2,7 +2,6 @@
   <global>
     <remote>
       <blue>XBMC.System.Exec("/storage/hyperion/hyperionswitch.sh")</blue>
-      <one>XBMC.System.Exec("/storage/hyperion/hyperionswitch.sh")</one>
     </remote>
   </global>
 </keymap>
