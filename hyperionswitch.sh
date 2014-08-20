@@ -1,4 +1,5 @@
 #!/bin/sh
+# Download image from - http://pibob.nadnerb.co.uk/images/hyperion.png
 SERVICE='hyperiond'
 if ps | grep -v grep | grep $SERVICE > /dev/null
 then
